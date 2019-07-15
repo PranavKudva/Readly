@@ -2,7 +2,7 @@ https://news.ycombinator.com
 https://reddit.com/r/algorithms
 https://www.quora.com/What-are-some-must-see-Google-Tech-Talks
 
-
+https://eli.thegreenplace.net/2019/go-compiler-internals-adding-a-new-statement-to-go-part-1/
 http://stackoverflow.com/questions/1491795/olog-n-o1-why-not
 http://www.thenakedscientists.com/HTML/questions/
 http://www.unixmen.com/fix-device-eth0-seem-present-delaying-initialization-error/
