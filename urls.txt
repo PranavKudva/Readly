@@ -1,7 +1,7 @@
 https://news.ycombinator.com
 https://reddit.com/r/algorithms
 https://www.quora.com/What-are-some-must-see-Google-Tech-Talks
-
+http://www.cs.cmu.edu/Groups/AI/html/cltl/clm/node1.html
 https://nullprogram.com/blog/2019/04/30/
 http://stackoverflow.com/questions/1491795/olog-n-o1-why-not
 http://www.thenakedscientists.com/HTML/questions/
