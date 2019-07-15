@@ -8,3 +8,4 @@ http://www.thenakedscientists.com/HTML/questions/
 http://www.unixmen.com/fix-device-eth0-seem-present-delaying-initialization-error/
 http://www.maclife.com/article/columns/terminal_101_creating_cron_jobs
 https://medium.com/@chandukavar/thinking-in-big-data-part-1-top-n-most-viewed-products-from-large-dataset-in-e-commerce-db5e869f1920
+http://www.avajava.com/tutorials/categories/design-patterns
