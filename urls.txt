@@ -6,3 +6,4 @@ https://nullprogram.com/blog/2019/04/30/
 http://stackoverflow.com/questions/1491795/olog-n-o1-why-not
 http://www.thenakedscientists.com/HTML/questions/
 http://www.unixmen.com/fix-device-eth0-seem-present-delaying-initialization-error/
+https://nullprogram.com/blog/2019/01/25/
