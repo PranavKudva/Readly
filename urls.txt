@@ -7,3 +7,4 @@ http://stackoverflow.com/questions/1491795/olog-n-o1-why-not
 http://www.thenakedscientists.com/HTML/questions/
 http://www.unixmen.com/fix-device-eth0-seem-present-delaying-initialization-error/
 https://aws.amazon.com/blogs/big-data/join-amazon-redshift-and-amazon-rds-postgresql-with-dblink/
+https://medium.com/javascript-scene/what-is-webassembly-the-dawn-of-a-new-era-61256ec5a8f6
